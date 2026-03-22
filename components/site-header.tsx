@@ -36,6 +36,7 @@ const NAV_ITEMS = [
       { title: "Multifamily Residences", href: "/residences/multifamily" },
       { title: "Custom Single-Family Homes", href: "/residences/single-family" },
       { title: "Neighborhoods", href: "/residences/neighborhoods" },
+      { title: "Financing & Mortgage Tools", href: "/residences/financing" },
     ],
   },
   {
