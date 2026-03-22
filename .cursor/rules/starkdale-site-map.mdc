@@ -1,0 +1,103 @@
+---
+description: Starkdale platform site map — full page structure used to build the platform
+alwaysApply: true
+---
+
+# Starkdale PSP — Site Map
+
+## Header / Top-Level Navigation
+
+### Home
+
+### Our Vision
+- Starkdale vision/philosophy (longevity principles, how Starkdale makes it happen)
+- About Us (Starkdale team)
+
+### Residences
+- **All Residences** — Explore all residences, Filtering
+  - **Property Page** [Drill-in] — availability, neighborhood, size, images, etc. + entry point to "Customize your property"
+    - Add to Favourites, Generate a Proposal, Compare with Other Properties
+    - **Compare Properties**
+    - **Financing & Mortgage Tools** (3rd-party calculators, mortgage proposal forms)
+    - **eCommerce Checkout Flow**
+- **Multifamily Residences** (330 units)
+  - Styles: Traditional, Modern, Agriculture
+- **Custom Single-Family Residences** (113 homes)
+  - **Customize a Property** (sharing to non-registered visitors + Export to PDF)
+- **Neighborhoods**
+  - All Neighborhoods
+  - Dedicated page each: Cascades, Private Reserve, Base Camp, The Square, The Resort, West Ridge, Lakeside, Play Village, East Ridge, The Crescent
+
+### Lifestyle
+- **The Square**
+  - Dining, Cultural Experiences, Co-working Spaces, Retail / Shopping
+- **Play Village**
+  - Ultimate Childcare Experience, Fitness Classes (Tennis, Pickleball, Bowling, Indoor Basketball, Soccer)
+
+### Longevity & Spa
+- **ROSEBAR — Longevity Center**
+  - Rosebar main page (cutting-edge science + holistic healing, Dr. Mark Hyman)
+  - Our Experts
+  - Treatments:
+    - Longevity Club main page
+    - Advanced Diagnostics & Consultations
+    - Biohacking & Advanced Therapies
+    - Bespoke Nutrition & Formulations
+    - Spiritual Wellbeing & Movement
+  - Immersive Programs / Retreats
+- **The Spa**
+  - Thermal Baths, Classes, Beauty Rituals, Performances, Museum Shop, etc.
+
+### Community
+- **Gathering Venues**
+  - The Theatre, The Folly, The Ballroom
+- **Starkdale Live Layers**
+  - The Great Outdoors
+    - Lakeside (biking, kayaking, paddle boarding, fishing, swimming)
+    - Basecamp (trails, adventure races, nature hikes, winter sports)
+  - Fitness, ROSEBAR, Social, Spirituality, Music, Culinary, Charity, Arts, Design & Sustainability
+- **Community Connectivity**
+  - Member Connectivity Accelerator
+  - Operational Intelligence & Optimization
+  - Smart & Sustainable Infrastructure
+  - Health, Wellness, & Longevity Tech
+  - Mobility & Autonomous Transport
+  - Education & Cultural Platforms
+
+### Resort
+- **The Resort**
+  - Music Hall, Fitness, Resort Spa
+- **Accommodation** (Resort Wing Suites, Resort Cabins, Spa Wing Suites, Spa Cabins, Onsen Villas, Starkdale BNB Keys, Historic Home Keys, Annex Keys)
+
+### Explore Starkdale (button)
+- Immersive video experience
+
+### Contact Us (button)
+- Schedule Visit (choose date and time)
+- Lead Capture Form
+
+### My Profile / Login (button)
+- If not signed in:
+  - Authentication Pages (Sign-up, Log-in, Verification)
+- If signed in:
+  - My Saved Properties
+  - My Proposals
+  - My Details (includes My Interests — affects personalized content)
+  - Upcoming Scheduled Visits (change / cancel flow)
+  - Logout
+- **Future features:**
+  - Bookings (treatments, etc.)
+  - My Services
+  - Events
+  - Neighbors
+
+## Footer
+- All relevant pages from header
+- Privacy Policy
+- Accessibility Statement
+- Legal Page
+- Newsletter (lead capture form)
+- Contact Details (phone, email, address, social links)
+
+## Global Components
+- Persistent floating AI Assistant entry point
